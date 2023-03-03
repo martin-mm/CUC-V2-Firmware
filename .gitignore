@@ -1,0 +1,6 @@
+*.bak
+Objects/
+ObjectsBL/
+Listings/
+!Objects/*.hex
+!ObjectsBL/*.hex
